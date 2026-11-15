@@ -44,11 +44,24 @@ h1, h2, h3, h4, h5, h6,
     letter-spacing: -0.01em;
 }
 
-/* Hide default streamlit chrome */
-#MainMenu { visibility: hidden; }
-footer { visibility: hidden; }
+/* Hide default streamlit chrome, menu, footer, and Cloud toolbar (Fork / GitHub) */
+#MainMenu { visibility: hidden !important; }
+footer { visibility: hidden !important; }
 [data-testid="stSidebar"] { display: none !important; }
 [data-testid="stSidebarCollapsedControl"] { display: none !important; }
+
+/* Hide Streamlit Community Cloud Fork button, GitHub icon, and extra toolbar widgets */
+header [data-testid="stToolbar"],
+header [data-testid="stToolbarActions"],
+header a[href*="github"],
+header [class*="fork"],
+header [class*="Fork"],
+[data-testid="stHeader"] [data-testid="stToolbar"],
+[data-testid="stHeader"] [data-testid="stToolbarActions"],
+[data-testid="stHeader"] a[href*="github"] {
+    display: none !important;
+    visibility: hidden !important;
+}
 
 /* Constrain main block width for reading comfort */
 .block-container {
