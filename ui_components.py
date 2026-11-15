@@ -50,7 +50,15 @@ footer { visibility: hidden; }
 [data-testid="stSidebar"] { display: none !important; }
 [data-testid="stSidebarCollapsedControl"] { display: none !important; }
 
-/* Hide Fork button, GitHub links, and toolbar actions from top-right header while keeping navbar */
+/* Hide Fork button, GitHub icon, and viewer badge on Streamlit Community Cloud */
+#GithubIcon,
+[class*="viewerBadge"],
+div[class*="viewerBadge"],
+a[class*="viewerBadge"],
+.viewerBadge_container__1QSob,
+.styles_viewerBadge__1yB5_,
+.viewerBadge_link__1S137,
+.viewerBadge_text__1JaDK,
 [data-testid="stHeaderActionElements"],
 [data-testid="stToolbarActions"],
 .stAppDeployButton,
@@ -58,17 +66,27 @@ header a[href*="github.com"],
 header a[href*="fork"],
 header button[title*="Fork"],
 header a[title*="GitHub"],
-header div:has(> a[href*="github.com"]) {
+header svg[data-icon="github"],
+header div:has(> #GithubIcon),
+header a:has(#GithubIcon),
+header div:has(> a[href*="github.com"]),
+[data-testid="stToolbar"] > div:not(:has([data-testid="stTopNav"])) {
     display: none !important;
     visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+    width: 0 !important;
+    height: 0 !important;
 }
 
 /* Ensure top navigation bar remains completely visible and left-aligned */
 [data-testid="stTopNav"],
 nav[data-testid="stTopNav"],
-header [data-testid="stTopNav"] {
+header [data-testid="stTopNav"],
+[data-testid="stToolbar"] > div:has([data-testid="stTopNav"]) {
     display: flex !important;
     visibility: visible !important;
+    opacity: 1 !important;
 }
 
 /* Constrain main block width for reading comfort */
