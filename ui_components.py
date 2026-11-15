@@ -16,9 +16,18 @@ CUSTOM_CSS = """
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,400&family=Inter:wght@400;500;600&display=swap');
 
 /* Global typography */
-html, body, [class*="css"], [class*="st-"] {
+html, body, .stApp {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     color: #24272C;
+}
+
+/* Preserve Streamlit icon font and prevent ligature text leakage like 'uploadpload' */
+[data-testid="stIcon"],
+[class*="material-symbols"],
+[class*="material-icons"],
+span[class*="material-symbols"],
+[data-testid="stFileUploader"] span[class*="material"] {
+    font-family: 'Material Symbols Rounded', 'Material Icons', sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -45,7 +54,7 @@ footer { visibility: hidden; }
 .block-container {
     max-width: 960px;
     padding-top: 1.5rem;
-    padding-bottom: 3.5rem;
+    padding-bottom: 6rem;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
 }
@@ -225,8 +234,10 @@ div[data-testid="stMetricLabel"] {
     color: #656A72;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     flex-wrap: wrap;
     gap: 8px;
+    margin-bottom: 2.5rem;
 }
 
 /* Tables */
@@ -280,15 +291,24 @@ def render_header():
 
 
 def render_footer():
-    """Render footer on every page with student details from site_config."""
+    """Render subtle footer on every page."""
+    # Only show author details if configured with real values (not default placeholders)
+    has_name = site_config.NAME and not site_config.NAME.strip().startswith("[")
+    has_enroll = site_config.ENROLLMENT and not site_config.ENROLLMENT.strip().startswith("[")
+    
+    author_parts = []
+    if has_name:
+        author_parts.append(site_config.NAME.strip())
+    if has_enroll:
+        author_parts.append(f"({site_config.ENROLLMENT.strip()})")
+    
+    author_str = f" &middot; {' '.join(author_parts)}" if author_parts else ""
+
     st.markdown(
         f"""
         <div class="page-footer">
             <div>
-                <strong>{site_config.PROJECT}</strong> &middot; {site_config.NAME} ({site_config.ENROLLMENT})
-            </div>
-            <div>
-                Submitted to {site_config.SUBMITTED_TO}
+                <strong>{site_config.PROJECT}</strong>{author_str}
             </div>
         </div>
         """,
