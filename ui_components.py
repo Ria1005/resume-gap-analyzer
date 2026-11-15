@@ -50,6 +50,27 @@ footer { visibility: hidden; }
 [data-testid="stSidebar"] { display: none !important; }
 [data-testid="stSidebarCollapsedControl"] { display: none !important; }
 
+/* Hide Fork button, GitHub links, and toolbar actions from top-right header while keeping navbar */
+[data-testid="stHeaderActionElements"],
+[data-testid="stToolbarActions"],
+.stAppDeployButton,
+header a[href*="github.com"],
+header a[href*="fork"],
+header button[title*="Fork"],
+header a[title*="GitHub"],
+header div:has(> a[href*="github.com"]) {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+/* Ensure top navigation bar remains completely visible and left-aligned */
+[data-testid="stTopNav"],
+nav[data-testid="stTopNav"],
+header [data-testid="stTopNav"] {
+    display: flex !important;
+    visibility: visible !important;
+}
+
 /* Constrain main block width for reading comfort */
 .block-container {
     max-width: 960px;
