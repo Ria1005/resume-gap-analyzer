@@ -1,0 +1,617 @@
+resume_id,candidate_id,target_role,years_experience,education,certifications,skills,resume_text
+R001,Candidate_001,Data Analyst,0,B.E. Information Technology,Tableau Desktop Specialist,Power BI;Data Visualization;Statistics;Python;Pandas;Tableau;Problem Solving;Git;Deep Learning;Communication,"SUMMARY
+Data Analyst with 0 years of experience in powerbi and Data Visualization.
+
+SKILLS
+Power BI, dashboards, Statistics, Python, Pandas, Tableau, Problem Solving, version control, Deep Learning, verbal and written communication
+
+EXPERIENCE
+0 years as Data Analyst. Built a pipeline using Deep Learning and Python. Built a REST service using Tableau and Git.
+
+EDUCATION
+B.E. Information Technology
+
+CERTIFICATIONS
+Tableau Desktop Specialist"
+R002,Candidate_002,Data Scientist,4,BCA,None,Python;Machine Learning;Statistics;Pandas;scikit-learn;SQL;Deep Learning;Data Visualization;C++;Flask;Matplotlib;TensorFlow;Leadership;Communication,"SUMMARY
+Data Scientist with 4 years of experience in python3 and Machine Learning.
+
+SKILLS
+py, Machine Learning, statistical analysis, Pandas, scikit-learn, SQL, Deep Learning, Data Visualization, cpp, Flask, Matplotlib, TensorFlow, team lead, verbal and written communication
+
+EXPERIENCE
+4 years as Data Scientist. Built a pipeline using neural networks and Pandas. Built a dashboard using Data Visualization and Communication.
+
+EDUCATION
+BCA
+
+CERTIFICATIONS
+None"
+R003,Candidate_003,Machine Learning Engineer,1,MCA,AWS Certified Cloud Practitioner,Python;Machine Learning;Docker;Git;Deep Learning;MLOps;AWS;PyTorch;Process Modeling;JUnit;React;Statistics;Leadership,"SUMMARY
+Machine Learning Engineer with 1 years of experience in py and Machine Learning.
+
+SKILLS
+Python, Machine Learning, containerization, Git, Deep Learning, MLOps, amazon web services, PyTorch, bpmn, JUnit, React, statistical analysis, Leadership
+
+EXPERIENCE
+1 years as Machine Learning Engineer. Built a automation script using Git and Python. Built a REST service using React and process mapping.
+
+EDUCATION
+MCA
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner"
+R004,Candidate_004,NLP Engineer,4,M.Sc Data Science,Coursera Machine Learning Specialization,Python;NLP;spaCy;Machine Learning;Git;Deep Learning;Docker;Problem Solving;R;Django,"SUMMARY
+NLP Engineer with 4 years of experience in Python and NLP.
+
+SKILLS
+Python, natural language processing, spaCy, Machine Learning, Git, dl, Docker, Problem Solving, R, Django
+
+EXPERIENCE
+4 years as NLP Engineer. Built a dashboard using spaCy and version control. Built a prediction model using r programming and Django.
+
+EDUCATION
+M.Sc Data Science
+
+CERTIFICATIONS
+Coursera Machine Learning Specialization"
+R005,Candidate_005,Python Developer,0,B.E. Information Technology,AWS Certified Cloud Practitioner,Python;REST API;SQL;Git;PostgreSQL;Pytest;AWS;Flask;Express;Java;SQLite;C++;UML;Problem Solving;Teamwork,"SUMMARY
+Python Developer with 0 years of experience in Python and rest apis.
+
+SKILLS
+Python, REST API, SQL, Git, postgres, Pytest, AWS, Flask, expressjs, Java, SQLite, C++, UML, Problem Solving, Teamwork
+
+EXPERIENCE
+0 years as Python Developer. Built a pipeline using analytical thinking and Teamwork. Built a pipeline using C++ and UML.
+
+EDUCATION
+B.E. Information Technology
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner"
+R006,Candidate_006,Frontend Developer,1,B.Sc Computer Science,None,React;REST API;Problem Solving;NLTK;spaCy;TypeScript;TensorFlow;Teamwork,"SUMMARY
+Frontend Developer with 1 years of experience in react.js and REST API.
+
+SKILLS
+React, restful apis, analytical thinking, NLTK, spaCy, ts, tf, collaboration
+
+EXPERIENCE
+1 years as Frontend Developer. Built a REST service using restful services and NLTK. Built a web app using React and React.
+
+EDUCATION
+B.Sc Computer Science
+
+CERTIFICATIONS
+None"
+R007,Candidate_007,Full Stack Developer,3,MBA (Analytics),AWS Certified Cloud Practitioner,MongoDB;REST API;Express;Terraform;Git;Linux;Django;Problem Solving;Communication,"SUMMARY
+Full Stack Developer with 3 years of experience in MongoDB and restful services.
+
+SKILLS
+MongoDB, restful apis, Express, Terraform, Git, Linux, Django, Problem Solving, verbal and written communication
+
+EXPERIENCE
+3 years as Full Stack Developer. Built a prediction model using Express and Git. Built a prediction model using unix and version control.
+
+EDUCATION
+MBA (Analytics)
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner"
+R008,Candidate_008,Backend Developer,1,M.Tech Computer Science,Oracle Certified Java Associate,Java;SQL;REST API;Git;Linux;Docker;Redis;Kubernetes;PostgreSQL;JUnit;MLOps,"SUMMARY
+Backend Developer with 1 years of experience in Java and SQL.
+
+SKILLS
+Java, SQL, restful apis, Git, Linux, Docker, Redis, Kubernetes, PostgreSQL, JUnit, MLOps
+
+EXPERIENCE
+1 years as Backend Developer. Built a REST service using JUnit and PostgreSQL. Built a automation script using Kubernetes and Kubernetes.
+
+EDUCATION
+M.Tech Computer Science
+
+CERTIFICATIONS
+Oracle Certified Java Associate"
+R009,Candidate_009,DevOps Engineer,1,MCA,Microsoft Azure Fundamentals,Docker;Kubernetes;Bash;Jenkins;Python;Azure;spaCy;scikit-learn;Leadership;Problem Solving,"SUMMARY
+DevOps Engineer with 1 years of experience in containers and Kubernetes.
+
+SKILLS
+Docker, k8s, Bash, Jenkins, python3, Azure, spaCy, scikit-learn, Leadership, Problem Solving
+
+EXPERIENCE
+1 years as DevOps Engineer. Built a automation script using Problem Solving and scikit learn. Built a REST service using containerization and Bash.
+
+EDUCATION
+MCA
+
+CERTIFICATIONS
+Microsoft Azure Fundamentals"
+R010,Candidate_010,QA Engineer,3,B.Tech Computer Science,ISTQB Foundation Level,Selenium;JIRA;Postman;Agile;Pytest;CI/CD;Communication;Tableau;AWS;Stakeholder Management;Linux;Deep Learning,"SUMMARY
+QA Engineer with 3 years of experience in Selenium and jira.
+
+SKILLS
+Selenium, JIRA, Postman, Agile, Pytest, continuous integration, Communication, Tableau, amazon web services, Stakeholder Management, Linux, neural networks
+
+EXPERIENCE
+3 years as QA Engineer. Built a web app using Postman and Deep Learning. Built a pipeline using Pytest and JIRA.
+
+EDUCATION
+B.Tech Computer Science
+
+CERTIFICATIONS
+ISTQB Foundation Level"
+R011,Candidate_011,Business Analyst,2,B.Sc Computer Science,None,Requirement Gathering;Stakeholder Management;Excel;Communication;UML;JIRA;R;GitHub;Leadership;Teamwork,"SUMMARY
+Business Analyst with 2 years of experience in requirements elicitation and Stakeholder Management.
+
+SKILLS
+requirements elicitation, Stakeholder Management, Excel, Communication, UML, JIRA, R, GitHub, Leadership, collaboration
+
+EXPERIENCE
+2 years as Business Analyst. Built a REST service using R and collaboration. Built a dashboard using UML and GitHub.
+
+EDUCATION
+B.Sc Computer Science
+
+CERTIFICATIONS
+None"
+R012,Candidate_012,Data Analyst,0,MCA,None,SQL;Excel;Power BI;Data Visualization;Statistics;Communication;Python;Pandas;Tableau;Problem Solving;FastAPI;UML,"SUMMARY
+Data Analyst with 0 years of experience in SQL and Excel.
+
+SKILLS
+structured query language, Excel, Power BI, Data Visualization, statistical analysis, Communication, python3, Pandas, Tableau, Problem Solving, FastAPI, UML
+
+EXPERIENCE
+0 years as Data Analyst. Built a automation script using Communication and UML. Built a automation script using verbal and written communication and statistical analysis.
+
+EDUCATION
+MCA
+
+CERTIFICATIONS
+None"
+R013,Candidate_013,Data Scientist,2,BCA,None,Python;Machine Learning;Statistics;scikit-learn;SQL;Feature Engineering;Data Visualization;MySQL;Test Automation;NumPy;TensorFlow,"SUMMARY
+Data Scientist with 2 years of experience in py and ml.
+
+SKILLS
+Python, Machine Learning, statistical analysis, sklearn, SQL, Feature Engineering, Data Visualization, MySQL, Test Automation, numpy, tf
+
+EXPERIENCE
+2 years as Data Scientist. Built a dashboard using Machine Learning and Machine Learning. Built a prediction model using python3 and Machine Learning.
+
+EDUCATION
+BCA
+
+CERTIFICATIONS
+None"
+R014,Candidate_014,Machine Learning Engineer,1,BCA,None,Python;Machine Learning;TensorFlow;Docker;Git;Deep Learning;Kubernetes;PyTorch;Azure;AWS;NumPy;Tableau;Communication;Leadership,"SUMMARY
+Machine Learning Engineer with 1 years of experience in py and Machine Learning.
+
+SKILLS
+Python, Machine Learning, tf, Docker, Git, Deep Learning, Kubernetes, PyTorch, Azure, AWS, NumPy, Tableau, Communication, Leadership
+
+EXPERIENCE
+1 years as Machine Learning Engineer. Built a automation script using Docker and Git. Built a dashboard using python3 and AWS.
+
+EDUCATION
+BCA
+
+CERTIFICATIONS
+None"
+R015,Candidate_015,NLP Engineer,2,B.Tech Computer Science,Coursera Machine Learning Specialization,Machine Learning;Deep Learning;React;TypeScript;MongoDB;MLOps;Communication;Teamwork,"SUMMARY
+NLP Engineer with 2 years of experience in Machine Learning and Deep Learning.
+
+SKILLS
+Machine Learning, neural networks, React, TypeScript, mongo, MLOps, Communication, collaboration
+
+EXPERIENCE
+2 years as NLP Engineer. Built a pipeline using MLOps and Communication. Built a web app using Communication and Machine Learning.
+
+EDUCATION
+B.Tech Computer Science
+
+CERTIFICATIONS
+Coursera Machine Learning Specialization"
+R016,Candidate_016,Python Developer,0,MCA,AWS Certified Cloud Practitioner,Python;Django;Linux;PostgreSQL;Pytest;GCP;Scrum;Matplotlib;Feature Engineering;Leadership;Communication,"SUMMARY
+Python Developer with 0 years of experience in py and Django.
+
+SKILLS
+Python, Django, unix, PostgreSQL, Pytest, google cloud, Scrum, Matplotlib, Feature Engineering, Leadership, Communication
+
+EXPERIENCE
+0 years as Python Developer. Built a web app using Scrum and Matplotlib. Built a pipeline using Matplotlib and Scrum.
+
+EDUCATION
+MCA
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner"
+R017,Candidate_017,Frontend Developer,1,MBA (Analytics),None,CSS;Git;REST API;TypeScript;Problem Solving;Flask;Stakeholder Management;Matplotlib;Manual Testing;Leadership,"SUMMARY
+Frontend Developer with 1 years of experience in CSS and Git.
+
+SKILLS
+CSS, Git, REST API, ts, analytical thinking, Flask, stakeholder communication, Matplotlib, Manual Testing, Leadership
+
+EXPERIENCE
+1 years as Frontend Developer. Built a REST service using REST API and CSS. Built a pipeline using Manual Testing and team lead.
+
+EDUCATION
+MBA (Analytics)
+
+CERTIFICATIONS
+None"
+R018,Candidate_018,Full Stack Developer,5,B.Sc Computer Science,None,JavaScript;Node.js;MongoDB;TypeScript;GCP;Git;Process Modeling;C++;SQLite;CSS;Teamwork;Communication,"SUMMARY
+Full Stack Developer with 5 years of experience in JavaScript and Node.js.
+
+SKILLS
+JavaScript, nodejs, MongoDB, TypeScript, google cloud, version control, Process Modeling, cpp, SQLite, CSS, Teamwork, Communication
+
+EXPERIENCE
+5 years as Full Stack Developer. Built a pipeline using mongo and CSS. Built a prediction model using TypeScript and CSS.
+
+EDUCATION
+B.Sc Computer Science
+
+CERTIFICATIONS
+None"
+R019,Candidate_019,Backend Developer,0,MCA,None,Java;SQL;REST API;MySQL;Linux;Docker;Redis;CI/CD;CSS;JIRA;scikit-learn;Power BI;Leadership,"SUMMARY
+Backend Developer with 0 years of experience in Java and SQL.
+
+SKILLS
+Java, SQL, REST API, MySQL, unix, containers, Redis, CI/CD, CSS, JIRA, scikit-learn, Power BI, Leadership
+
+EXPERIENCE
+0 years as Backend Developer. Built a pipeline using JIRA and MySQL. Built a prediction model using MySQL and jira.
+
+EDUCATION
+MCA
+
+CERTIFICATIONS
+None"
+R020,Candidate_020,DevOps Engineer,6,B.E. Information Technology,AWS Certified Cloud Practitioner,Docker;Kubernetes;AWS;Bash;Terraform;Jenkins;Problem Solving;GitHub Actions;Tableau;Scrum;Postman;Teamwork,"SUMMARY
+DevOps Engineer with 6 years of experience in Docker and k8s.
+
+SKILLS
+Docker, Kubernetes, AWS, Bash, Terraform, Jenkins, analytical thinking, GitHub Actions, Tableau, Scrum, api testing, Teamwork
+
+EXPERIENCE
+6 years as DevOps Engineer. Built a prediction model using Teamwork and Scrum. Built a REST service using Postman and Kubernetes.
+
+EDUCATION
+B.E. Information Technology
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner"
+R021,Candidate_021,QA Engineer,3,B.E. Information Technology,None,Manual Testing;Test Automation;Postman;Agile;Communication;Jenkins;UML;NumPy;Redis;Feature Engineering;Problem Solving;Leadership,"SUMMARY
+QA Engineer with 3 years of experience in Manual Testing and Test Automation.
+
+SKILLS
+Manual Testing, Test Automation, Postman, Agile, Communication, Jenkins, UML, NumPy, Redis, Feature Engineering, Problem Solving, team lead
+
+EXPERIENCE
+3 years as QA Engineer. Built a pipeline using NumPy and Agile. Built a dashboard using analytical thinking and Manual Testing.
+
+EDUCATION
+B.E. Information Technology
+
+CERTIFICATIONS
+None"
+R022,Candidate_022,Business Analyst,2,BCA,Certified Scrum Master,Requirement Gathering;Excel;Communication;Power BI;JIRA;MySQL;spaCy;NLTK,"SUMMARY
+Business Analyst with 2 years of experience in requirements analysis and Excel.
+
+SKILLS
+Requirement Gathering, Excel, verbal and written communication, powerbi, JIRA, MySQL, spaCy, NLTK
+
+EXPERIENCE
+2 years as Business Analyst. Built a pipeline using MySQL and requirements analysis. Built a pipeline using spaCy and Excel.
+
+EDUCATION
+BCA
+
+CERTIFICATIONS
+Certified Scrum Master"
+R023,Candidate_023,Data Analyst,4,B.Sc Computer Science,Tableau Desktop Specialist,SQL;Excel;Power BI;Data Visualization;Statistics;Problem Solving;MySQL;Stakeholder Management;Leadership,"SUMMARY
+Data Analyst with 4 years of experience in SQL and Excel.
+
+SKILLS
+SQL, ms excel, powerbi, Data Visualization, Statistics, Problem Solving, MySQL, stakeholder communication, Leadership
+
+EXPERIENCE
+4 years as Data Analyst. Built a automation script using MySQL and Excel. Built a dashboard using Leadership and Data Visualization.
+
+EDUCATION
+B.Sc Computer Science
+
+CERTIFICATIONS
+Tableau Desktop Specialist"
+R024,Candidate_024,Data Scientist,3,B.Sc Computer Science,None,Python;Statistics;Pandas;scikit-learn;SQL;Deep Learning;Communication;Postman;Bash,"SUMMARY
+Data Scientist with 3 years of experience in Python and Statistics.
+
+SKILLS
+Python, Statistics, Pandas, sklearn, SQL, Deep Learning, Communication, Postman, Bash
+
+EXPERIENCE
+3 years as Data Scientist. Built a dashboard using SQL and dl. Built a pipeline using api testing and Deep Learning.
+
+EDUCATION
+B.Sc Computer Science
+
+CERTIFICATIONS
+None"
+R025,Candidate_025,Machine Learning Engineer,2,B.Tech Computer Science,Coursera Machine Learning Specialization,Python;Machine Learning;TensorFlow;Docker;Git;Kubernetes;JavaScript;Redis;Data Visualization;GCP;Teamwork,"SUMMARY
+Machine Learning Engineer with 2 years of experience in Python and Machine Learning.
+
+SKILLS
+Python, ml, tf, containerization, version control, k8s, JavaScript, Redis, Data Visualization, google cloud, collaboration
+
+EXPERIENCE
+2 years as Machine Learning Engineer. Built a prediction model using ml and Redis. Built a automation script using Redis and ecmascript.
+
+EDUCATION
+B.Tech Computer Science
+
+CERTIFICATIONS
+Coursera Machine Learning Specialization"
+R026,Candidate_026,NLP Engineer,1,BCA,None,Python;NLP;spaCy;Machine Learning;Git;Deep Learning;PyTorch;Docker;Problem Solving;Statistics;Seaborn;MySQL;Java;Leadership,"SUMMARY
+NLP Engineer with 1 years of experience in Python and natural language processing.
+
+SKILLS
+py, NLP, spaCy, Machine Learning, version control, Deep Learning, PyTorch, Docker, Problem Solving, statistical analysis, Seaborn, MySQL, Java, Leadership
+
+EXPERIENCE
+1 years as NLP Engineer. Built a pipeline using Java and Statistics. Built a prediction model using dl and Machine Learning.
+
+EDUCATION
+BCA
+
+CERTIFICATIONS
+None"
+R027,Candidate_027,Python Developer,1,BCA,AWS Certified Cloud Practitioner,Python;Django;REST API;SQL;Git;Linux;Docker;PostgreSQL;Pytest;Data Visualization;MySQL;Redis;Problem Solving,"SUMMARY
+Python Developer with 1 years of experience in python3 and Django.
+
+SKILLS
+Python, Django, REST API, SQL, Git, Linux, Docker, PostgreSQL, Pytest, dashboards, MySQL, Redis, analytical thinking
+
+EXPERIENCE
+1 years as Python Developer. Built a REST service using PostgreSQL and analytical thinking. Built a web app using Pytest and Django.
+
+EDUCATION
+BCA
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner"
+R028,Candidate_028,Frontend Developer,3,M.Tech Computer Science,None,HTML;CSS;JavaScript;React;Git;TypeScript;Teamwork;Problem Solving;GitHub Actions;Feature Engineering;Scrum;Leadership,"SUMMARY
+Frontend Developer with 3 years of experience in HTML and CSS.
+
+SKILLS
+HTML, CSS, JavaScript, React, Git, TypeScript, Teamwork, analytical thinking, GitHub Actions, Feature Engineering, Scrum, team lead
+
+EXPERIENCE
+3 years as Frontend Developer. Built a REST service using GitHub Actions and GitHub Actions. Built a automation script using es6 and Teamwork.
+
+EDUCATION
+M.Tech Computer Science
+
+CERTIFICATIONS
+None"
+R029,Candidate_029,Full Stack Developer,4,B.Sc Computer Science,None,JavaScript;React;Node.js;REST API;Git;TypeScript;Docker;Redis;Stakeholder Management;PyTorch;Machine Learning;Leadership;Communication,"SUMMARY
+Full Stack Developer with 4 years of experience in JavaScript and React.
+
+SKILLS
+js, React, Node.js, REST API, Git, TypeScript, Docker, Redis, Stakeholder Management, torch, ml, team lead, verbal and written communication
+
+EXPERIENCE
+4 years as Full Stack Developer. Built a pipeline using reactjs and Stakeholder Management. Built a prediction model using stakeholder communication and Communication.
+
+EDUCATION
+B.Sc Computer Science
+
+CERTIFICATIONS
+None"
+R030,Candidate_030,Backend Developer,2,M.Tech Computer Science,None,Java;SQL;Linux;Kubernetes;Express;Manual Testing;MLOps;HTML;FastAPI;Problem Solving,"SUMMARY
+Backend Developer with 2 years of experience in Java and SQL.
+
+SKILLS
+Java, SQL, Linux, Kubernetes, expressjs, Manual Testing, MLOps, HTML, FastAPI, Problem Solving
+
+EXPERIENCE
+2 years as Backend Developer. Built a pipeline using expressjs and Manual Testing. Built a automation script using SQL and FastAPI.
+
+EDUCATION
+M.Tech Computer Science
+
+CERTIFICATIONS
+None"
+R031,Candidate_031,DevOps Engineer,1,B.E. Information Technology,AWS Certified Cloud Practitioner,Linux;Docker;Kubernetes;Bash;Jenkins;Python;Problem Solving;Azure;Tableau;Deep Learning;C++;PyTorch,"SUMMARY
+DevOps Engineer with 1 years of experience in Linux and Docker.
+
+SKILLS
+Linux, containerization, Kubernetes, Bash, Jenkins, Python, Problem Solving, Azure, Tableau, Deep Learning, C++, torch
+
+EXPERIENCE
+1 years as DevOps Engineer. Built a pipeline using Tableau and PyTorch. Built a REST service using Docker and shell scripting.
+
+EDUCATION
+B.E. Information Technology
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner"
+R032,Candidate_032,QA Engineer,4,B.Tech Computer Science,None,Manual Testing;Selenium;Test Automation;JIRA;Agile;Pytest;Python;Communication;GitHub Actions;GraphQL;C++;React,"SUMMARY
+QA Engineer with 4 years of experience in Manual Testing and Selenium.
+
+SKILLS
+Manual Testing, selenium webdriver, Test Automation, jira, agile methodology, Pytest, py, Communication, GitHub Actions, GraphQL, C++, reactjs
+
+EXPERIENCE
+4 years as QA Engineer. Built a web app using GitHub Actions and Pytest. Built a prediction model using Test Automation and C++.
+
+EDUCATION
+B.Tech Computer Science
+
+CERTIFICATIONS
+None"
+R033,Candidate_033,Business Analyst,5,B.E. Information Technology,None,Stakeholder Management;Excel;Communication;Process Modeling;UML;Power BI;React;SQL;Deep Learning;Express;Kubernetes,"SUMMARY
+Business Analyst with 5 years of experience in stakeholder communication and Excel.
+
+SKILLS
+Stakeholder Management, Excel, Communication, bpmn, UML, Power BI, React, SQL, Deep Learning, Express, Kubernetes
+
+EXPERIENCE
+5 years as Business Analyst. Built a dashboard using React and Communication. Built a web app using microsoft excel and UML.
+
+EDUCATION
+B.E. Information Technology
+
+CERTIFICATIONS
+None"
+R034,Candidate_034,Data Analyst,0,M.Tech Computer Science,AWS Certified Cloud Practitioner,Excel;Data Visualization;Statistics;Python;Tableau;Selenium;CI/CD;Problem Solving;Communication,"SUMMARY
+Data Analyst with 0 years of experience in ms excel and Data Visualization.
+
+SKILLS
+microsoft excel, Data Visualization, statistical analysis, Python, Tableau, Selenium, continuous integration, Problem Solving, Communication
+
+EXPERIENCE
+0 years as Data Analyst. Built a REST service using Selenium and Python. Built a dashboard using Statistics and CI/CD.
+
+EDUCATION
+M.Tech Computer Science
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner"
+R035,Candidate_035,Data Scientist,5,B.Sc Computer Science,None,Python;Machine Learning;Statistics;scikit-learn;Deep Learning;Feature Engineering;Communication;C++;Pytest;Azure;Process Modeling;Test Automation;Teamwork,"SUMMARY
+Data Scientist with 5 years of experience in Python and Machine Learning.
+
+SKILLS
+Python, Machine Learning, Statistics, scikit-learn, Deep Learning, Feature Engineering, verbal and written communication, C++, Pytest, microsoft azure, process mapping, Test Automation, Teamwork
+
+EXPERIENCE
+5 years as Data Scientist. Built a pipeline using Azure and ml. Built a automation script using Communication and microsoft azure.
+
+EDUCATION
+B.Sc Computer Science
+
+CERTIFICATIONS
+None"
+R036,Candidate_036,Machine Learning Engineer,4,M.Sc Data Science,Coursera Machine Learning Specialization,Python;Machine Learning;Docker;Git;Deep Learning;MLOps;Kubernetes;PyTorch;Matplotlib;MongoDB;Seaborn;Problem Solving;Leadership,"SUMMARY
+Machine Learning Engineer with 4 years of experience in python3 and ml.
+
+SKILLS
+Python, ml, Docker, Git, neural networks, MLOps, Kubernetes, PyTorch, Matplotlib, mongo, Seaborn, Problem Solving, Leadership
+
+EXPERIENCE
+4 years as Machine Learning Engineer. Built a web app using Seaborn and Git. Built a REST service using MongoDB and PyTorch.
+
+EDUCATION
+M.Sc Data Science
+
+CERTIFICATIONS
+Coursera Machine Learning Specialization"
+R037,Candidate_037,NLP Engineer,3,B.Sc Computer Science,None,Python;Deep Learning;PyTorch;FastAPI;NLTK;Selenium;Tableau;Jenkins;NumPy;Problem Solving,"SUMMARY
+NLP Engineer with 3 years of experience in Python and dl.
+
+SKILLS
+python3, Deep Learning, PyTorch, FastAPI, NLTK, Selenium, Tableau, Jenkins, NumPy, Problem Solving
+
+EXPERIENCE
+3 years as NLP Engineer. Built a automation script using selenium webdriver and Jenkins. Built a automation script using Jenkins and Jenkins.
+
+EDUCATION
+B.Sc Computer Science
+
+CERTIFICATIONS
+None"
+R038,Candidate_038,Python Developer,0,MBA (Analytics),AWS Certified Cloud Practitioner,Python;Django;REST API;SQL;Git;Linux;Docker;PostgreSQL;Selenium;MongoDB;Scrum;Statistics;GitHub Actions;Deep Learning;Teamwork,"SUMMARY
+Python Developer with 0 years of experience in Python and Django.
+
+SKILLS
+python3, Django, restful services, SQL, Git, Linux, Docker, PostgreSQL, selenium webdriver, mongo, Scrum, Statistics, GitHub Actions, dl, collaboration
+
+EXPERIENCE
+0 years as Python Developer. Built a automation script using py and statistical analysis. Built a automation script using postgres and Linux.
+
+EDUCATION
+MBA (Analytics)
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner"
+R039,Candidate_039,Frontend Developer,2,M.Sc Data Science,None,HTML;React;Git;TypeScript;Problem Solving;Pytest;REST API;Communication;Teamwork,"SUMMARY
+Frontend Developer with 2 years of experience in HTML and React.
+
+SKILLS
+HTML, React, version control, ts, analytical thinking, Pytest, rest apis, verbal and written communication, Teamwork
+
+EXPERIENCE
+2 years as Frontend Developer. Built a pipeline using REST API and Communication. Built a prediction model using HTML and Git.
+
+EDUCATION
+M.Sc Data Science
+
+CERTIFICATIONS
+None"
+R040,Candidate_040,Full Stack Developer,2,M.Sc Data Science,AWS Certified Cloud Practitioner,JavaScript;MongoDB;REST API;TypeScript;Docker;Stakeholder Management;NLP;React;Express;Teamwork;Communication,"SUMMARY
+Full Stack Developer with 2 years of experience in JavaScript and MongoDB.
+
+SKILLS
+JavaScript, MongoDB, REST API, TypeScript, containerization, Stakeholder Management, natural language processing, React, Express, collaboration, Communication
+
+EXPERIENCE
+2 years as Full Stack Developer. Built a dashboard using Stakeholder Management and verbal and written communication. Built a pipeline using TypeScript and Docker.
+
+EDUCATION
+M.Sc Data Science
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner"
+R041,Candidate_041,Backend Developer,5,B.Tech Computer Science,Oracle Certified Java Associate,Java;SQL;REST API;Git;Linux;CI/CD;PostgreSQL;MongoDB;React;Kubernetes;Power BI;Selenium;Machine Learning;Teamwork,"SUMMARY
+Backend Developer with 5 years of experience in Java and SQL.
+
+SKILLS
+Java, structured query language, REST API, version control, Linux, cicd, PostgreSQL, mongo, React, k8s, Power BI, selenium webdriver, Machine Learning, Teamwork
+
+EXPERIENCE
+5 years as Backend Developer. Built a REST service using REST API and mongo. Built a web app using REST API and powerbi.
+
+EDUCATION
+B.Tech Computer Science
+
+CERTIFICATIONS
+Oracle Certified Java Associate"
+R042,Candidate_042,DevOps Engineer,4,M.Sc Data Science,Microsoft Azure Fundamentals,Linux;Docker;Kubernetes;CI/CD;Bash;Python;Problem Solving;Azure;Machine Learning;Stakeholder Management;Tableau;Java;Data Visualization,"SUMMARY
+DevOps Engineer with 4 years of experience in unix and containerization.
+
+SKILLS
+Linux, containers, Kubernetes, cicd, Bash, Python, Problem Solving, microsoft azure, ml, Stakeholder Management, Tableau, Java, Data Visualization
+
+EXPERIENCE
+4 years as DevOps Engineer. Built a automation script using Python and Machine Learning. Built a automation script using Data Visualization and CI/CD.
+
+EDUCATION
+M.Sc Data Science
+
+CERTIFICATIONS
+Microsoft Azure Fundamentals"
+R043,Candidate_043,QA Engineer,3,BCA,None,Postman;Pytest;JUnit;NumPy;Deep Learning;Scrum;MongoDB;UML;Communication,"SUMMARY
+QA Engineer with 3 years of experience in Postman and Pytest.
+
+SKILLS
+api testing, Pytest, JUnit, NumPy, dl, Scrum, mongo, UML, Communication
+
+EXPERIENCE
+3 years as QA Engineer. Built a automation script using Pytest and Postman. Built a prediction model using Pytest and Communication.
+
+EDUCATION
+BCA
+
+CERTIFICATIONS
+None"
+R044,Candidate_044,Business Analyst,4,MBA (Analytics),Certified Scrum Master,Agile;Stakeholder Management;SQL;Excel;Communication;Power BI;CI/CD;MongoDB;Matplotlib;Kubernetes;Data Visualization,"SUMMARY
+Business Analyst with 4 years of experience in Agile and stakeholder communication.
+
+SKILLS
+Agile, Stakeholder Management, SQL, Excel, Communication, powerbi, cicd, mongo, Matplotlib, Kubernetes, dashboards
+
+EXPERIENCE
+4 years as Business Analyst. Built a automation script using agile methodology and Stakeholder Management. Built a REST service using Kubernetes and agile methodology.
+
+EDUCATION
+MBA (Analytics)
+
+CERTIFICATIONS
+Certified Scrum Master"

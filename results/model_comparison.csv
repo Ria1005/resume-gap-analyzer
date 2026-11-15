@@ -1,0 +1,5 @@
+model,raw_accuracy,clean_accuracy,clean_macro_f1
+LinearSVC,100.0,90.9,90.5
+Logistic Regression,99.0,87.9,87.2
+Multinomial NB,97.4,84.8,83.9
+Random Forest,98.4,83.3,82.1

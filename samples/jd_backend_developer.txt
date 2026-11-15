@@ -1,0 +1,9 @@
+Backend Developer
+
+We need a Backend Developer with 3+ years of experience.
+
+Required skills:
+Java, SQL, REST API, MySQL, Git, Linux, Docker, Kubernetes
+
+Nice to have:
+Redis, CI/CD, AWS

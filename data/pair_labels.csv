@@ -1,0 +1,89 @@
+pair_id,resume_id,jd_id,matched_required,partial_required,missing_required,matched_preferred,partial_preferred,missing_preferred,experience_gap_years,match_score,fit_label,split
+P001,R001,JD01,Power BI;Data Visualization;Statistics;Communication,,SQL;Excel,Python;Pandas;Tableau;Problem Solving,,,1,76.7,Strong,dev
+P002,R001,JD08,Git,,Java;SQL;REST API;MySQL;Linux,,,Docker;Redis;CI/CD;Kubernetes,2,11.7,Weak,dev
+P003,R002,JD02,Python;Machine Learning;Statistics;Pandas;scikit-learn;SQL,,,Deep Learning;Data Visualization;Communication,,Feature Engineering,0,92.5,Strong,dev
+P004,R002,JD09,,,Linux;Docker;Kubernetes;CI/CD;AWS;Bash,Python,,Terraform;Jenkins;Problem Solving,0,7.5,Weak,dev
+P005,R003,JD03,Python;Machine Learning;Docker;Git;Deep Learning,TensorFlow,,MLOps;AWS;PyTorch,,Kubernetes,1,86.7,Strong,dev
+P006,R003,JD05,Python;Git,,Django;REST API;SQL;Linux,Docker;AWS,Pytest,PostgreSQL,1,42.1,Weak,dev
+P007,R004,JD04,Python;NLP;spaCy;Machine Learning;Git;Deep Learning,,,Docker;Problem Solving,FastAPI,PyTorch,0,88.8,Strong,dev
+P008,R004,JD10,,,Manual Testing;Selenium;Test Automation;JIRA;Postman;Agile,Python,,Pytest;CI/CD;Communication,0,7.5,Weak,dev
+P009,R005,JD05,Python;REST API;SQL;Git,Django,Linux,PostgreSQL;Pytest;AWS,,Docker,2,75.0,Strong,dev
+P010,R005,JD04,Python;Git,,NLP;spaCy;Machine Learning;Deep Learning,Problem Solving,FastAPI,PyTorch;Docker,2,34.6,Weak,dev
+P011,R006,JD06,React;REST API,,HTML;CSS;JavaScript;Git,TypeScript;Teamwork;Problem Solving,,GitHub Actions,0,45.8,Weak,dev
+P012,R006,JD01,,,SQL;Excel;Power BI;Data Visualization;Statistics;Communication,Problem Solving,,Python;Pandas;Tableau,0,7.5,Weak,dev
+P013,R007,JD07,MongoDB;REST API;Git,,JavaScript;React;Node.js,Express,,TypeScript;Docker;AWS,0,42.5,Weak,dev
+P014,R007,JD03,Git,,Python;Machine Learning;TensorFlow;Docker;Deep Learning,,,MLOps;AWS;Kubernetes;PyTorch,0,11.7,Weak,dev
+P015,R008,JD08,Java;SQL;REST API;Git;Linux,MySQL,,Docker;Redis;Kubernetes,,CI/CD,1,86.7,Strong,dev
+P016,R008,JD10,,Selenium,Manual Testing;Test Automation;JIRA;Postman;Agile,,Pytest,Python;CI/CD;Communication,1,9.6,Weak,dev
+P017,R009,JD09,Docker;Kubernetes;Bash,CI/CD;AWS,Linux,Jenkins;Python;Problem Solving,,Terraform,2,69.2,Moderate,dev
+P018,R009,JD05,Python,,Django;REST API;SQL;Git;Linux,Docker,AWS,PostgreSQL;Pytest,1,22.9,Weak,dev
+P019,R010,JD10,Selenium;JIRA;Postman;Agile,,Manual Testing;Test Automation,Pytest;CI/CD;Communication,,Python,0,69.2,Moderate,dev
+P020,R010,JD04,Deep Learning,,Python;NLP;spaCy;Machine Learning;Git,,,PyTorch;FastAPI;Docker;Problem Solving,0,11.7,Weak,dev
+P021,R011,JD11,Requirement Gathering;Stakeholder Management;Excel;Communication,,Agile;SQL,UML;JIRA,,Process Modeling;Power BI,0,61.7,Moderate,dev
+P022,R011,JD10,JIRA,,Manual Testing;Selenium;Test Automation;Postman;Agile,Communication,,Pytest;Python;CI/CD,0,19.2,Weak,dev
+P023,R012,JD01,SQL;Excel;Power BI;Data Visualization;Statistics;Communication,,,Python;Pandas;Tableau;Problem Solving,,,1,100.0,Strong,dev
+P024,R012,JD07,,,JavaScript;React;Node.js;MongoDB;REST API;Git,,,TypeScript;Docker;AWS;Express,2,0.0,Weak,dev
+P025,R013,JD02,Python;Machine Learning;Statistics;scikit-learn;SQL,,Pandas,Feature Engineering;Data Visualization,,Deep Learning;Communication,0,73.3,Moderate,dev
+P026,R013,JD11,SQL,,Requirement Gathering;Agile;Stakeholder Management;Excel;Communication,,,Process Modeling;UML;Power BI;JIRA,0,11.7,Weak,dev
+P027,R014,JD03,Python;Machine Learning;TensorFlow;Docker;Git;Deep Learning,,,AWS;Kubernetes;PyTorch,,MLOps,1,92.5,Strong,dev
+P028,R014,JD11,Communication,,Requirement Gathering;Agile;Stakeholder Management;SQL;Excel,,Power BI,Process Modeling;UML;JIRA,1,15.4,Weak,dev
+P029,R015,JD04,Machine Learning;Deep Learning,,Python;NLP;spaCy;Git,,,PyTorch;FastAPI;Docker;Problem Solving,0,23.3,Weak,dev
+P030,R015,JD07,React;MongoDB,,JavaScript;Node.js;REST API;Git,TypeScript,,Docker;AWS;Express,0,30.8,Weak,dev
+P031,R016,JD05,Python;Django;Linux,,REST API;SQL;Git,PostgreSQL;Pytest,AWS,Docker,2,53.8,Moderate,dev
+P032,R016,JD04,Python,,NLP;spaCy;Machine Learning;Git;Deep Learning,,FastAPI,PyTorch;Docker;Problem Solving,2,15.4,Weak,dev
+P033,R017,JD06,CSS;Git;REST API,,HTML;JavaScript;React,TypeScript;Problem Solving,,Teamwork;GitHub Actions,0,50.0,Moderate,dev
+P034,R017,JD05,REST API;Git,Django,Python;SQL;Linux,,,Docker;PostgreSQL;Pytest;AWS,1,29.2,Weak,dev
+P035,R018,JD07,JavaScript;Node.js;MongoDB;Git,,React;REST API,TypeScript,AWS,Docker;Express,0,57.9,Moderate,dev
+P036,R018,JD03,Git,,Python;Machine Learning;TensorFlow;Docker;Deep Learning,,AWS,MLOps;Kubernetes;PyTorch,0,15.4,Weak,dev
+P037,R019,JD08,Java;SQL;REST API;MySQL;Linux,,Git,Docker;Redis;CI/CD,,Kubernetes,2,80.8,Strong,dev
+P038,R019,JD10,JIRA,,Manual Testing;Selenium;Test Automation;Postman;Agile,CI/CD,,Pytest;Python;Communication,2,19.2,Weak,dev
+P039,R020,JD09,Docker;Kubernetes;AWS;Bash,CI/CD,Linux,Terraform;Jenkins;Problem Solving,,Python,0,75.0,Strong,dev
+P040,R020,JD04,,,Python;NLP;spaCy;Machine Learning;Git;Deep Learning,Docker;Problem Solving,,PyTorch;FastAPI,0,15.0,Weak,dev
+P041,R021,JD10,Manual Testing;Test Automation;Postman;Agile,,Selenium;JIRA,Communication,CI/CD,Pytest;Python,0,57.9,Moderate,dev
+P042,R021,JD07,,MongoDB,JavaScript;React;Node.js;REST API;Git,,,TypeScript;Docker;AWS;Express,0,5.8,Weak,dev
+P043,R022,JD11,Requirement Gathering;Excel;Communication,,Agile;Stakeholder Management;SQL,Power BI;JIRA,,Process Modeling;UML,0,50.0,Moderate,dev
+P044,R022,JD05,,,Python;Django;REST API;SQL;Git;Linux,,PostgreSQL,Docker;Pytest;AWS,0,3.8,Weak,dev
+P045,R023,JD01,SQL;Excel;Power BI;Data Visualization;Statistics,,Communication,Problem Solving,Tableau,Python;Pandas,0,69.6,Moderate,dev
+P046,R023,JD06,,,HTML;CSS;JavaScript;React;Git;REST API,Problem Solving,,TypeScript;Teamwork;GitHub Actions,0,7.5,Weak,dev
+P047,R024,JD02,Python;Statistics;Pandas;scikit-learn;SQL,,Machine Learning,Deep Learning;Communication,,Feature Engineering;Data Visualization,0,73.3,Moderate,dev
+P048,R024,JD01,SQL;Statistics;Communication,,Excel;Power BI;Data Visualization,Python;Pandas,,Tableau;Problem Solving,0,50.0,Moderate,dev
+P049,R025,JD03,Python;Machine Learning;TensorFlow;Docker;Git,,Deep Learning,Kubernetes,AWS;PyTorch,MLOps,0,73.3,Moderate,dev
+P050,R025,JD10,,,Manual Testing;Selenium;Test Automation;JIRA;Postman;Agile,Python,,Pytest;CI/CD;Communication,0,7.5,Weak,dev
+P051,R026,JD04,Python;NLP;spaCy;Machine Learning;Git;Deep Learning,,,PyTorch;Docker;Problem Solving,,FastAPI,1,92.5,Strong,dev
+P052,R026,JD11,,,Requirement Gathering;Agile;Stakeholder Management;SQL;Excel;Communication,,,Process Modeling;UML;Power BI;JIRA,1,0.0,Weak,dev
+P053,R027,JD05,Python;Django;REST API;SQL;Git;Linux,,,Docker;PostgreSQL;Pytest,,AWS,1,92.5,Strong,test
+P054,R027,JD03,Python;Docker;Git,,Machine Learning;TensorFlow;Deep Learning,,,MLOps;AWS;Kubernetes;PyTorch,1,35.0,Weak,test
+P055,R028,JD06,HTML;CSS;JavaScript;React;Git,,REST API,TypeScript;Teamwork;Problem Solving;GitHub Actions,,,0,88.3,Strong,test
+P056,R028,JD08,Git,,Java;SQL;REST API;MySQL;Linux,,CI/CD,Docker;Redis;Kubernetes,0,15.4,Weak,test
+P057,R029,JD07,JavaScript;React;Node.js;REST API;Git,MongoDB,,TypeScript;Docker,,AWS;Express,0,79.2,Strong,test
+P058,R029,JD10,,,Manual Testing;Selenium;Test Automation;JIRA;Postman;Agile,Communication,,Pytest;Python;CI/CD,0,7.5,Weak,test
+P059,R030,JD08,Java;SQL;Linux,,REST API;MySQL;Git,Kubernetes,,Docker;Redis;CI/CD,0,42.5,Weak,test
+P060,R030,JD09,Linux;Kubernetes,,Docker;CI/CD;AWS;Bash,Problem Solving,,Terraform;Jenkins;Python,1,30.8,Weak,test
+P061,R031,JD09,Linux;Docker;Kubernetes;Bash,CI/CD;AWS,,Jenkins;Python;Problem Solving,,Terraform,2,80.8,Strong,test
+P062,R031,JD01,,Power BI,SQL;Excel;Data Visualization;Statistics;Communication,Python;Tableau;Problem Solving,,Pandas,0,28.3,Weak,test
+P063,R032,JD10,Manual Testing;Selenium;Test Automation;JIRA;Agile,,Postman,Pytest;Python;Communication,CI/CD,,0,84.6,Strong,test
+P064,R032,JD06,React,,HTML;CSS;JavaScript;Git;REST API,GitHub Actions,,TypeScript;Teamwork;Problem Solving,0,19.2,Weak,test
+P065,R033,JD11,Stakeholder Management;SQL;Excel;Communication,,Requirement Gathering;Agile,Process Modeling;UML;Power BI,,JIRA,0,69.2,Moderate,test
+P066,R033,JD07,React,,JavaScript;Node.js;MongoDB;REST API;Git,Express,,TypeScript;Docker;AWS,0,19.2,Weak,test
+P067,R034,JD01,Excel;Data Visualization;Statistics;Communication,Power BI,SQL,Python;Tableau;Problem Solving,,Pandas,1,75.0,Strong,test
+P068,R034,JD10,Selenium,,Manual Testing;Test Automation;JIRA;Postman;Agile,Python;CI/CD;Communication,Pytest,,2,37.9,Weak,test
+P069,R035,JD02,Python;Machine Learning;Statistics;scikit-learn,,Pandas;SQL,Deep Learning;Feature Engineering;Communication,,Data Visualization,0,69.2,Moderate,test
+P070,R035,JD07,,,JavaScript;React;Node.js;MongoDB;REST API;Git,,AWS,TypeScript;Docker;Express,0,3.8,Weak,test
+P071,R036,JD03,Python;Machine Learning;Docker;Git;Deep Learning,TensorFlow,,MLOps;Kubernetes;PyTorch,,AWS,0,86.7,Strong,test
+P072,R036,JD08,Git,,Java;SQL;REST API;MySQL;Linux,Docker;Kubernetes,Redis,CI/CD,0,30.4,Weak,test
+P073,R037,JD04,Python;Deep Learning,spaCy,NLP;Machine Learning;Git,PyTorch;FastAPI;Problem Solving,,Docker,0,51.7,Moderate,test
+P074,R037,JD08,,,Java;SQL;REST API;MySQL;Git;Linux,,CI/CD,Docker;Redis;Kubernetes,0,3.8,Weak,test
+P075,R038,JD05,Python;Django;REST API;SQL;Git;Linux,,,Docker;PostgreSQL,Pytest,AWS,2,88.8,Strong,test
+P076,R038,JD03,Python;Docker;Git;Deep Learning,,Machine Learning;TensorFlow,,,MLOps;AWS;Kubernetes;PyTorch,2,46.7,Weak,test
+P077,R039,JD06,HTML;React;Git;REST API,,CSS;JavaScript,TypeScript;Teamwork;Problem Solving,,GitHub Actions,0,69.2,Moderate,test
+P078,R039,JD05,REST API;Git,,Python;Django;SQL;Linux,Pytest,,Docker;PostgreSQL;AWS,0,30.8,Weak,test
+P079,R040,JD07,JavaScript;React;MongoDB;REST API,,Node.js;Git,TypeScript;Docker;Express,,AWS,0,69.2,Moderate,test
+P080,R040,JD08,REST API,,Java;SQL;MySQL;Git;Linux,Docker,Redis,CI/CD;Kubernetes,0,22.9,Weak,test
+P081,R041,JD08,Java;SQL;REST API;Git;Linux,MySQL,,CI/CD;Kubernetes,Redis,Docker,0,82.9,Strong,test
+P082,R041,JD03,Machine Learning;Git,,Python;TensorFlow;Docker;Deep Learning,Kubernetes,,MLOps;AWS;PyTorch,0,30.8,Weak,test
+P083,R042,JD09,Linux;Docker;Kubernetes;CI/CD;Bash,AWS,,Python;Problem Solving,Jenkins,Terraform,0,82.9,Strong,test
+P084,R042,JD10,,,Manual Testing;Selenium;Test Automation;JIRA;Postman;Agile,Python;CI/CD,,Pytest;Communication,0,15.0,Weak,test
+P085,R043,JD10,Postman,Selenium,Manual Testing;Test Automation;JIRA;Agile,Pytest;Communication,,Python;CI/CD,0,32.5,Weak,test
+P086,R043,JD08,,,Java;SQL;REST API;MySQL;Git;Linux,,Redis,Docker;CI/CD;Kubernetes,0,3.8,Weak,test
+P087,R044,JD11,Agile;Stakeholder Management;SQL;Excel;Communication,,Requirement Gathering,Power BI,,Process Modeling;UML;JIRA,0,65.8,Moderate,test
+P088,R044,JD04,,,Python;NLP;spaCy;Machine Learning;Git;Deep Learning,,,PyTorch;FastAPI;Docker;Problem Solving,0,0.0,Weak,test

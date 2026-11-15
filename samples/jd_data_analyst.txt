@@ -1,0 +1,9 @@
+Data Analyst
+
+We are looking for a Data Analyst with 2+ years of experience.
+
+Required skills:
+SQL, Excel, Power BI, Data Visualization, Statistics, Python, Communication
+
+Preferred skills:
+Tableau, Pandas, Problem Solving

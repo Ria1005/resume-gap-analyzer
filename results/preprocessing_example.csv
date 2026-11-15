@@ -1,0 +1,9 @@
+stage,text_sample
+raw,"Skills: • Python, SQL, Tableau • Machine Learning � Pandas, NumPy
+Contact: candidate.analyst@example.com | +1 (555) 019-2834
+LinkedIn: https://linkedin.com/in/data-analyst-profile
+EXPERIENCE:
+Data Analyst at Acme Corp (2021–2023)
+- Designed ETL pipelines & SQL queries for business reporting.
+- Built predictive regression models using scikit-learn."
+clean,skills python sql tableau machine learning pandas numpy contact experience data analyst at acme corp 2021 2023 designed etl pipelines sql queries for business reporting built predictive regression models using scikit learn
