@@ -44,21 +44,21 @@ h1, h2, h3, h4, h5, h6,
     letter-spacing: -0.01em;
 }
 
-/* Hide default streamlit chrome, menu, footer, and Cloud toolbar (Fork / GitHub) */
+/* Hide default streamlit chrome, menu, footer */
 #MainMenu { visibility: hidden !important; }
 footer { visibility: hidden !important; }
 [data-testid="stSidebar"] { display: none !important; }
 [data-testid="stSidebarCollapsedControl"] { display: none !important; }
 
-/* Hide Streamlit Community Cloud Fork button, GitHub icon, and extra toolbar widgets */
-header [data-testid="stToolbar"],
-header [data-testid="stToolbarActions"],
-header a[href*="github"],
-header [class*="fork"],
-header [class*="Fork"],
-[data-testid="stHeader"] [data-testid="stToolbar"],
-[data-testid="stHeader"] [data-testid="stToolbarActions"],
-[data-testid="stHeader"] a[href*="github"] {
+/* Hide only the Fork button and GitHub icon in the top-right cloud toolbar,
+   without touching the navigation bar */
+header a[href*="github.com"],
+[data-testid="stToolbarActions"] a[href*="github"],
+[data-testid="stToolbarActions"] [class*="fork"],
+[data-testid="stToolbarActions"] [class*="Fork"],
+[data-testid="stToolbarActions"] [title*="Fork"],
+[data-testid="stToolbarActions"] [aria-label*="fork"],
+[data-testid="stToolbarActions"] [aria-label*="Fork"] {
     display: none !important;
     visibility: hidden !important;
 }
