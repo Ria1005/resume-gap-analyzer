@@ -1,0 +1,74 @@
+skill,category,family,synonyms
+Python,Programming,,py;python3
+Java,Programming,,
+JavaScript,Programming,,js;es6;ecmascript
+TypeScript,Programming,,ts
+SQL,Programming,,structured query language
+R,Programming,,r programming
+C++,Programming,,cpp
+Bash,Programming,,shell scripting;shell
+MySQL,Database,sql_db,
+PostgreSQL,Database,sql_db,postgres
+SQLite,Database,sql_db,
+MongoDB,Database,nosql_db,mongo
+Redis,Database,nosql_db,
+Pandas,Data,,
+NumPy,Data,,numpy
+Excel,Data,,ms excel;microsoft excel
+Power BI,Data,bi_tool,powerbi
+Tableau,Data,bi_tool,
+Data Visualization,Data,,data viz;dashboards
+Statistics,Data,,statistical analysis
+Matplotlib,Data,viz_lib,pyplot
+Seaborn,Data,viz_lib,
+Machine Learning,ML,,ml
+scikit-learn,ML,,sklearn;scikit learn
+TensorFlow,ML,dl_framework,tf
+PyTorch,ML,dl_framework,torch
+Deep Learning,ML,,dl;neural networks
+NLP,ML,,natural language processing
+spaCy,ML,nlp_lib,
+NLTK,ML,nlp_lib,
+Feature Engineering,ML,,
+MLOps,ML,,
+HTML,Web,,
+CSS,Web,,
+React,Web,js_frontend,reactjs;react.js
+Angular,Web,js_frontend,angularjs
+Vue.js,Web,js_frontend,vue;vuejs
+Node.js,Web,,nodejs;node
+Express,Web,,expressjs
+Django,Web,py_web,
+Flask,Web,py_web,
+FastAPI,Web,py_web,
+REST API,Web,,restful apis;rest apis;restful services
+GraphQL,Web,,
+Git,DevOps,,version control
+GitHub,DevOps,,
+Docker,DevOps,,containers;containerization
+Kubernetes,DevOps,,k8s
+AWS,DevOps,cloud,amazon web services
+Azure,DevOps,cloud,microsoft azure
+GCP,DevOps,cloud,google cloud
+CI/CD,DevOps,ci_tool,continuous integration;cicd
+Jenkins,DevOps,ci_tool,
+GitHub Actions,DevOps,ci_tool,
+Linux,DevOps,,unix
+Terraform,DevOps,,infrastructure as code;iac
+Selenium,QA,qa_auto,selenium webdriver
+Pytest,QA,qa_auto,
+JUnit,QA,qa_auto,
+Postman,QA,,api testing
+Test Automation,QA,,automated testing
+Manual Testing,QA,,
+JIRA,QA,,jira
+Requirement Gathering,Business,,requirements analysis;requirements elicitation
+Agile,Business,,agile methodology
+Scrum,Business,,
+Stakeholder Management,Business,,stakeholder communication
+Process Modeling,Business,,bpmn;process mapping
+UML,Business,,
+Communication,Soft,,verbal and written communication
+Problem Solving,Soft,,analytical thinking
+Teamwork,Soft,,collaboration
+Leadership,Soft,,team lead

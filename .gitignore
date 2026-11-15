@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+temp/
+generate_screenshots.py
+generate_screenshots_selenium.py
+
+# Legacy archives and extraction folders
+*.zip
+gap_engine_project/
+resume_gap_app/
+resume_parser_project/
+validation_project/

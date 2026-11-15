@@ -1,0 +1,26 @@
+VALIDATION REPORT - Resume-to-Job Gap Analyzer
+============================================================
+
+A. Skill extraction from resumes (44 resumes)
+  Precision 96.3%   Recall 94.2%   F1 95.2%
+  (this is the 'agreement on identified skills'; target in the workplan: 80% or higher)
+
+B. Gap analysis vs ground-truth labels
+All (88 pairs)
+  Fit label accuracy (Strong/Moderate/Weak): 90.9%
+  Score: mean error 2.5 points, within 10 points: 90.9%, correlation 0.987
+  Missing-required-skill detection: precision 98.6%, recall 98.9%
+
+Test set only (36 pairs)
+  Fit label accuracy (Strong/Moderate/Weak): 94.4%
+  Score: mean error 2.6 points, within 10 points: 94.4%, correlation 0.988
+  Missing-required-skill detection: precision 99.1%, recall 99.1%
+
+Confusion matrix (all pairs):
+predicted  Moderate  Strong  Weak
+true                             
+Moderate         16       2     1
+Strong            4      17     0
+Weak              1       0    47
+
+Note: ground truth is synthetic. See manual validation on real pairs for the real-world check.
