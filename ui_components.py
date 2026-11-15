@@ -50,30 +50,6 @@ footer { visibility: hidden; }
 [data-testid="stSidebar"] { display: none !important; }
 [data-testid="stSidebarCollapsedControl"] { display: none !important; }
 
-/* Hide Streamlit Community Cloud 'Fork' button and GitHub repository link */
-[data-testid="stHeaderActionElements"],
-[data-testid="stToolbarAction"],
-[data-testid="stForkButton"],
-[data-testid="stToolbar"] a,
-header a[href*="github.com"],
-header a[href*="fork"],
-header a[title*="Fork"],
-header a[aria-label*="Fork"],
-header button[title*="Fork"],
-header button[aria-label*="Fork"],
-.stAppHeader a[href*="github.com"],
-.stAppToolbar a[href*="github.com"],
-header [data-testid="stHeaderActionElements"] *,
-div:has(> a[href*="github.com"]),
-div:has(> a[title*="Fork"]) {
-    display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    pointer-events: none !important;
-    width: 0 !important;
-    height: 0 !important;
-}
-
 /* Constrain main block width for reading comfort */
 .block-container {
     max-width: 960px;
